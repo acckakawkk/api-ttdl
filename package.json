@@ -1,0 +1,11 @@
+{
+  "name": "api-ttdl",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "vercel dev"
+  },
+  "dependencies": {
+    "playwright": "^1.50.0"
+  }
+}
